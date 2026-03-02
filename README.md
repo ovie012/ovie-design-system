@@ -54,7 +54,6 @@ The system uses a soft yellow primary color paired with a deep charcoal tone for
 - Clean spacing scale
 - Predictable typography scale
 - Neutral grays for structure
-- No gradients
 - No unnecessary visual noise
 
 Everything is designed to be readable across mobile, tablet, and desktop screens.
