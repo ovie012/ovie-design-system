@@ -12,7 +12,7 @@ This project reflects the principle that senior engineers build systems, not pag
 
 ## Live Demo
 
-Live Link: 
+Live Link: https://ovie-design-system.vercel.app/
 
 ![Design preview for Ovie Design System](./public/ovie-design-landing-page.webp)
 
