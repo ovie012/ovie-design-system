@@ -1,7 +1,7 @@
 # Ovie Design System
 
 <div align="center">
-  <img width="250" height="250" alt="Logo for Form Canvas" src="./public/logo.png" />
+  <img width="250" height="250" alt="Logo for Ovie Design System" src="./public/logo.png" />
 </div>
 
 Ovie Design System is a scalable, accessible, and production-ready component library built with React, TypeScript, Tailwind CSS, and styled-components. It is designed with a systems-first mindset, focusing on clarity, consistency, and long-term maintainability.
